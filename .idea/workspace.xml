@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d64f9979-3682-424e-9987-52ec1d02bd1c" name="Changes" comment="My Files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab014.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +54,7 @@
     "Application.Lab005.executor": "Run",
     "Application.Lab006.executor": "Run",
     "Application.Lab007.executor": "Run",
+    "Application.Lab013.executor": "Run",
     "Application.SimpleCalulator.executor": "Run",
     "Application.Tableof10.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,20 +63,7 @@
     "onboarding.tips.debug.path": "C:/Users/Hp/IdeaProjects/ATB9xJavaPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab007">
-    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024.Lab002" />
-      <module name="ATB9xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_02102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab013">
     <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab004" />
       <module name="ATB9xJavaPrograms" />
@@ -138,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab013" />
+      <module name="ATB9xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_08102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab013" />
         <item itemvalue="Application.Lab007" />
         <item itemvalue="Application.Lab006" />
         <item itemvalue="Application.Lab005" />
         <item itemvalue="Application.Lab004" />
-        <item itemvalue="Application.Lab002" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728040645931</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My Files">
+      <option name="closed" value="true" />
+      <created>1728407015280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728407015280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
