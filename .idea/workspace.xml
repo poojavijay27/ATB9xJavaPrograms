@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d64f9979-3682-424e-9987-52ec1d02bd1c" name="Changes" comment="My files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Task001.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,39 +46,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleCalulator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tableof10.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Hp/IdeaProjects/ATB9xJavaPrograms/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab005.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab013.executor": "Run",
+    "Application.Lab014.executor": "Run",
+    "Application.Lab017.executor": "Run",
+    "Application.SimpleCalulator.executor": "Run",
+    "Application.Tableof10.executor": "Run",
+    "Application.Task001.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Hp/IdeaProjects/ATB9xJavaPrograms/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lab017">
-    <configuration name="Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab006" />
-      <module name="ATB9xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_08102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.Task001">
     <configuration name="Lab007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab007" />
       <module name="ATB9xJavaPrograms" />
@@ -135,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_09102024.Task001" />
+      <module name="ATB9xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_09102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task001" />
         <item itemvalue="Application.Lab017" />
         <item itemvalue="Application.Lab014" />
         <item itemvalue="Application.Lab013" />
         <item itemvalue="Application.Lab007" />
-        <item itemvalue="Application.Lab006" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728409377887</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="My files">
+      <option name="closed" value="true" />
+      <created>1728497446673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728497446673</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +200,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My Files" />
     <MESSAGE value="Added files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files" />
+    <MESSAGE value="My files" />
+    <option name="LAST_COMMIT_MESSAGE" value="My files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
