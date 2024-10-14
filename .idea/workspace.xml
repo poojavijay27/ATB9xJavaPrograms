@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d64f9979-3682-424e-9987-52ec1d02bd1c" name="Changes" comment="My files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab030_typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab032.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +70,11 @@
     "Application.Lab025.executor": "Run",
     "Application.Lab026.executor": "Run",
     "Application.Lab027.executor": "Run",
+    "Application.Lab028.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab030_typecasting.executor": "Run",
+    "Application.Lab031.executor": "Run",
+    "Application.Lab032.executor": "Run",
     "Application.SimpleCalulator.executor": "Run",
     "Application.Tableof10.executor": "Run",
     "Application.Task001.executor": "Run",
@@ -84,13 +84,13 @@
     "onboarding.tips.debug.path": "C:/Users/Hp/IdeaProjects/ATB9xJavaPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab027">
-    <configuration name="Lab023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_11102024_Operators.Lab023" />
+  <component name="RunManager" selected="Application.Lab032">
+    <configuration name="Lab028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_14102024_OperatorsP2.Lab028" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_11102024_Operators.*" />
+          <option name="PATTERN" value="Oct.ex_14102024_OperatorsP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_11102024_Operators.Lab024" />
+    <configuration name="Lab029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_14102024_OperatorsP2.Lab029" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_11102024_Operators.*" />
+          <option name="PATTERN" value="Oct.ex_14102024_OperatorsP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_11102024_Operators.Lab025" />
+    <configuration name="Lab030_typecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_14102024_OperatorsP2.Lab030_typecasting" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_11102024_Operators.*" />
+          <option name="PATTERN" value="Oct.ex_14102024_OperatorsP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_11102024_Operators.Lab026" />
+    <configuration name="Lab031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_14102024_OperatorsP2.Lab031" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_11102024_Operators.*" />
+          <option name="PATTERN" value="Oct.ex_14102024_OperatorsP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_11102024_Operators.Lab027" />
+    <configuration name="Lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_14102024_OperatorsP2.Lab032" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_11102024_Operators.*" />
+          <option name="PATTERN" value="Oct.ex_14102024_OperatorsP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab027" />
-        <item itemvalue="Application.Lab026" />
-        <item itemvalue="Application.Lab025" />
-        <item itemvalue="Application.Lab024" />
-        <item itemvalue="Application.Lab023" />
+        <item itemvalue="Application.Lab032" />
+        <item itemvalue="Application.Lab031" />
+        <item itemvalue="Application.Lab030_typecasting" />
+        <item itemvalue="Application.Lab029" />
+        <item itemvalue="Application.Lab028" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728498836954</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="My files">
+      <option name="closed" value="true" />
+      <created>1728645883206</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728645883206</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
