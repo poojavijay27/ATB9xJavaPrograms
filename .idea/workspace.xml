@@ -5,12 +5,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d64f9979-3682-424e-9987-52ec1d02bd1c" name="Changes" comment="My files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab028.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab030_typecasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_TernaryOperator/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_TernaryOperator/Lab041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_TernaryOperator/Lab042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024_Condition_Loops/Lab043_Argument_Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024_Condition_Loops/Lab044_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab045_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab046_If_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab048_Odd_Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab049_If_ElseIf_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_IfCondition_Switch/Lab050_HackerrankQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_IfCondition_Switch/Lab051_HackerrankQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_IfCondition_Switch/Lab053_Switch_With_OutBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_IfCondition_Switch/Lab054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_IfCondition_Switch/Lab056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_IfCondition_Switch/Lab057.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_IfCondition_Switch/Lab058.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_IfCondition_Switch/lab052_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab059.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab060.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab062.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab063.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab064.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab067.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab069.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab075_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Functions/Lab077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Functions/Lab078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Functions/Lab079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Functions/Lab080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_014102024/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_015102024/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_015102024/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_015102024/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_015102024/Task_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_018102024/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_018102024/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_018102024/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_03102024/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_03102024/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_10102024/Task1_LiteralsEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_10102024/Task3_UsingTypesofLitEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_10102024/Task4_TypeCastEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_10102024/Task_usingPrintf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_16102024/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_16102024/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_16102024/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATB9xJavaPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ATB9xJavaPrograms.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,22 +137,80 @@
     "Application.Lab030_typecasting.executor": "Run",
     "Application.Lab031.executor": "Run",
     "Application.Lab032.executor": "Run",
+    "Application.Lab033.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab035.executor": "Run",
+    "Application.Lab036.executor": "Run",
+    "Application.Lab037.executor": "Run",
+    "Application.Lab038.executor": "Run",
+    "Application.Lab039.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045_If.executor": "Run",
+    "Application.Lab046_If_Else.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048_Odd_Even.executor": "Run",
+    "Application.Lab049_If_ElseIf_Else.executor": "Run",
+    "Application.Lab050_HackerrankQ.executor": "Run",
+    "Application.Lab051_HackerrankQ2.executor": "Run",
+    "Application.Lab053_Switch_With_OutBreak.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab056.executor": "Run",
+    "Application.Lab057.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab061.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab063.executor": "Run",
+    "Application.Lab064.executor": "Run",
+    "Application.Lab066.executor": "Run",
+    "Application.Lab067.executor": "Run",
+    "Application.Lab068.executor": "Run",
+    "Application.Lab069.executor": "Run",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab072.executor": "Run",
+    "Application.Lab073.executor": "Run",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab077.executor": "Run",
     "Application.SimpleCalulator.executor": "Run",
     "Application.Tableof10.executor": "Run",
     "Application.Task001.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task1_LiteralsEx.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task3_UsingTypesofLitEX.executor": "Run",
+    "Application.Task4_TypeCastEx.executor": "Run",
+    "Application.Task_015102024.Task1.executor": "Run",
+    "Application.Task_018102024.Task1.executor": "Run",
+    "Application.Task_018102024.Task2.executor": "Run",
+    "Application.Task_018102024.Task3.executor": "Run",
+    "Application.Task_16102024.Task1.executor": "Run",
+    "Application.Task_16102024.Task2.executor": "Run",
+    "Application.Task_ID.executor": "Run",
+    "Application.Task_usingPrintf.executor": "Run",
+    "Application.lab052_Switch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Hp/IdeaProjects/ATB9xJavaPrograms/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Hp/IdeaProjects/ATB9xJavaPrograms/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab032">
-    <configuration name="Lab028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_14102024_OperatorsP2.Lab028" />
+  <component name="RunManager" selected="Application.Lab081">
+    <configuration name="Lab073" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024_While.Lab073" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_14102024_OperatorsP2.*" />
+          <option name="PATTERN" value="Oct.ex_22102024_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +218,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_14102024_OperatorsP2.Lab029" />
+    <configuration name="Lab074" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024_While.Lab074" />
       <module name="ATB9xJavaPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="44" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_14102024_OperatorsP2.*" />
+          <option name="PATTERN" value="Oct.ex_22102024_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab030_typecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_14102024_OperatorsP2.Lab030_typecasting" />
+    <configuration name="Lab075_DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024_While.Lab075_DoWhile" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_14102024_OperatorsP2.*" />
+          <option name="PATTERN" value="Oct.ex_22102024_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_14102024_OperatorsP2.Lab031" />
+    <configuration name="Lab077" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_23102024_Functions.Lab077" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_14102024_OperatorsP2.*" />
+          <option name="PATTERN" value="Oct.ex_23102024_Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_14102024_OperatorsP2.Lab032" />
+    <configuration name="Lab081" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_23102024_Functions.Lab081" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_14102024_OperatorsP2.*" />
+          <option name="PATTERN" value="Oct.ex_23102024_Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,13 +271,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab075_DoWhile" />
+      <item itemvalue="Application.Lab077" />
+      <item itemvalue="Application.Lab081" />
+      <item itemvalue="Application.Lab073" />
+      <item itemvalue="Application.Lab074" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab032" />
-        <item itemvalue="Application.Lab031" />
-        <item itemvalue="Application.Lab030_typecasting" />
-        <item itemvalue="Application.Lab029" />
-        <item itemvalue="Application.Lab028" />
+        <item itemvalue="Application.Lab081" />
+        <item itemvalue="Application.Lab077" />
+        <item itemvalue="Application.Lab075_DoWhile" />
+        <item itemvalue="Application.Lab074" />
+        <item itemvalue="Application.Lab073" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728645883206</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="My files">
+      <option name="closed" value="true" />
+      <created>1728903506807</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728903506807</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +384,87 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab039.java</url>
+          <line>3</line>
+          <properties class="Oct.ex_15102024_Increment_decrement.Lab039" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_15102024_TernaryOperator/Lab040.java</url>
+          <line>3</line>
+          <properties class="Oct.ex_15102024_TernaryOperator.Lab040" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_16102024_Condition_Loops/Lab044_Scanner.java</url>
+          <line>5</line>
+          <properties class="Oct.ex_16102024_Condition_Loops.Lab044_Scanner" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab049_If_ElseIf_Else.java</url>
+          <line>5</line>
+          <properties class="Oct.ex_17102024_IfCondition.Lab049_If_ElseIf_Else" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Task_03102024/Task2.java</url>
+          <line>3</line>
+          <properties class="Task_03102024.Task2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Task_16102024/Task2.java</url>
+          <line>3</line>
+          <properties class="Task_16102024.Task2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Task_10102024/Task3_UsingTypesofLitEX.java</url>
+          <line>3</line>
+          <properties class="Task_10102024.Task3_UsingTypesofLitEX" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Task_018102024/Task1.java</url>
+          <line>5</line>
+          <properties class="Task_018102024.Task1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Task_018102024/Task3.java</url>
+          <line>5</line>
+          <properties class="Task_018102024.Task3" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
