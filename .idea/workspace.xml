@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d64f9979-3682-424e-9987-52ec1d02bd1c" name="Changes" comment="My files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_24102024/Lab082.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_24102024/Lab083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Strings/Lab084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Strings/Lab085_String_Created.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Strings/Lab086_String_Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Strings/Lab087_String_Fix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Strings/Lab088_String_Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_Strings_Strings_Function_Arrays/Lab090_String_Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_Strings_Strings_Function_Arrays/Lab091_StringBuilder_StringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab094_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab095_Arrays_Iterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab096_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab097_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab098_Arrays_userInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +126,14 @@
     "Application.Lab085_String_Created.executor": "Run",
     "Application.Lab086_String_Immutable.executor": "Run",
     "Application.Lab087_String_Fix.executor": "Run",
+    "Application.Lab090_String_Function.executor": "Run",
+    "Application.Lab091_StringBuilder_StringBuffer.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab094_Strings.executor": "Run",
+    "Application.Lab095_Arrays_Iterate.executor": "Run",
+    "Application.Lab096_Interview.executor": "Run",
+    "Application.Lab097_Interview.executor": "Run",
+    "Application.Lab098_Arrays_userInput.executor": "Run",
     "Application.SimpleCalulator.executor": "Run",
     "Application.Tableof10.executor": "Run",
     "Application.Task001.executor": "Run",
@@ -142,6 +152,7 @@
     "Application.Task_ID.executor": "Run",
     "Application.Task_usingPrintf.executor": "Run",
     "Application.lab052_Switch.executor": "Run",
+    "Application.lab089_String_Equals2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -151,13 +162,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lab089_String_Equals2">
-    <configuration name="Lab084" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_25102024_Strings.Lab084" />
+  <component name="RunManager" selected="Application.Lab098_Arrays_userInput">
+    <configuration name="Lab094_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_29102024_Arrays.Lab094_Strings" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_25102024_Strings.*" />
+          <option name="PATTERN" value="Oct.ex_29102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab085_String_Created" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_25102024_Strings.Lab085_String_Created" />
+    <configuration name="Lab095_Arrays_Iterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_29102024_Arrays.Lab095_Arrays_Iterate" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_25102024_Strings.*" />
+          <option name="PATTERN" value="Oct.ex_29102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab086_String_Immutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_25102024_Strings.Lab086_String_Immutable" />
+    <configuration name="Lab096_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_29102024_Arrays.Lab096_Interview" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_25102024_Strings.*" />
+          <option name="PATTERN" value="Oct.ex_29102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab087_String_Fix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_25102024_Strings.Lab087_String_Fix" />
+    <configuration name="Lab097_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_29102024_Arrays.Lab097_Interview" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_25102024_Strings.*" />
+          <option name="PATTERN" value="Oct.ex_29102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab089_String_Equals2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_25102024_Strings.lab089_String_Equals2" />
+    <configuration name="Lab098_Arrays_userInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_29102024_Arrays.Lab098_Arrays_userInput" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_25102024_Strings.*" />
+          <option name="PATTERN" value="Oct.ex_29102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,19 +229,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab084" />
-      <item itemvalue="Application.Lab085_String_Created" />
-      <item itemvalue="Application.Lab086_String_Immutable" />
-      <item itemvalue="Application.Lab087_String_Fix" />
-      <item itemvalue="Application.lab089_String_Equals2" />
+      <item itemvalue="Application.Lab094_Strings" />
+      <item itemvalue="Application.Lab095_Arrays_Iterate" />
+      <item itemvalue="Application.Lab096_Interview" />
+      <item itemvalue="Application.Lab097_Interview" />
+      <item itemvalue="Application.Lab098_Arrays_userInput" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab089_String_Equals2" />
-        <item itemvalue="Application.Lab087_String_Fix" />
-        <item itemvalue="Application.Lab086_String_Immutable" />
-        <item itemvalue="Application.Lab085_String_Created" />
-        <item itemvalue="Application.Lab084" />
+        <item itemvalue="Application.Lab098_Arrays_userInput" />
+        <item itemvalue="Application.Lab097_Interview" />
+        <item itemvalue="Application.Lab096_Interview" />
+        <item itemvalue="Application.Lab095_Arrays_Iterate" />
+        <item itemvalue="Application.Lab094_Strings" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729697842711</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="My files">
+      <option name="closed" value="true" />
+      <created>1729877042719</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729877042719</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
