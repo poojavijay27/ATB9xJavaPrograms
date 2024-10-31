@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d64f9979-3682-424e-9987-52ec1d02bd1c" name="Changes" comment="My files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_Strings_Strings_Function_Arrays/Lab090_String_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_Strings_Strings_Function_Arrays/Lab091_StringBuilder_StringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab092.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab094_Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab095_Arrays_Iterate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab096_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab097_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab098_Arrays_userInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab0104_Arrays_Iterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab099_Arrays_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab100_Arrays_ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab101_Arrays_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab102_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab105_Right_Triangle_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/lab103_2D_Iterate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +60,7 @@
     "Application.Lab005.executor": "Run",
     "Application.Lab006.executor": "Run",
     "Application.Lab007.executor": "Run",
+    "Application.Lab0104_Arrays_Iterate.executor": "Debug",
     "Application.Lab013.executor": "Run",
     "Application.Lab014.executor": "Run",
     "Application.Lab017.executor": "Run",
@@ -134,6 +133,11 @@
     "Application.Lab096_Interview.executor": "Run",
     "Application.Lab097_Interview.executor": "Run",
     "Application.Lab098_Arrays_userInput.executor": "Run",
+    "Application.Lab099_Arrays_Exception.executor": "Run",
+    "Application.Lab100_Arrays_ForEach.executor": "Run",
+    "Application.Lab101_Arrays_2D.executor": "Run",
+    "Application.Lab102_2D.executor": "Run",
+    "Application.Lab105_Right_Triangle_2D.executor": "Run",
     "Application.SimpleCalulator.executor": "Run",
     "Application.Tableof10.executor": "Run",
     "Application.Task001.executor": "Run",
@@ -162,13 +166,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab098_Arrays_userInput">
-    <configuration name="Lab094_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_29102024_Arrays.Lab094_Strings" />
+  <component name="RunManager" selected="Application.Lab105_Right_Triangle_2D">
+    <configuration name="Lab0104_Arrays_Iterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_30102024_Arrays.Lab0104_Arrays_Iterate" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_29102024_Arrays.*" />
+          <option name="PATTERN" value="Oct.ex_30102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab095_Arrays_Iterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_29102024_Arrays.Lab095_Arrays_Iterate" />
+    <configuration name="Lab100_Arrays_ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_30102024_Arrays.Lab100_Arrays_ForEach" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_29102024_Arrays.*" />
+          <option name="PATTERN" value="Oct.ex_30102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab096_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_29102024_Arrays.Lab096_Interview" />
+    <configuration name="Lab101_Arrays_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_30102024_Arrays.Lab101_Arrays_2D" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_29102024_Arrays.*" />
+          <option name="PATTERN" value="Oct.ex_30102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab097_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_29102024_Arrays.Lab097_Interview" />
+    <configuration name="Lab102_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_30102024_Arrays.Lab102_2D" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_29102024_Arrays.*" />
+          <option name="PATTERN" value="Oct.ex_30102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab098_Arrays_userInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_29102024_Arrays.Lab098_Arrays_userInput" />
+    <configuration name="Lab105_Right_Triangle_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_30102024_Arrays.Lab105_Right_Triangle_2D" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_29102024_Arrays.*" />
+          <option name="PATTERN" value="Oct.ex_30102024_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,19 +233,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab094_Strings" />
-      <item itemvalue="Application.Lab095_Arrays_Iterate" />
-      <item itemvalue="Application.Lab096_Interview" />
-      <item itemvalue="Application.Lab097_Interview" />
-      <item itemvalue="Application.Lab098_Arrays_userInput" />
+      <item itemvalue="Application.Lab0104_Arrays_Iterate" />
+      <item itemvalue="Application.Lab100_Arrays_ForEach" />
+      <item itemvalue="Application.Lab101_Arrays_2D" />
+      <item itemvalue="Application.Lab102_2D" />
+      <item itemvalue="Application.Lab105_Right_Triangle_2D" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab098_Arrays_userInput" />
-        <item itemvalue="Application.Lab097_Interview" />
-        <item itemvalue="Application.Lab096_Interview" />
-        <item itemvalue="Application.Lab095_Arrays_Iterate" />
-        <item itemvalue="Application.Lab094_Strings" />
+        <item itemvalue="Application.Lab105_Right_Triangle_2D" />
+        <item itemvalue="Application.Lab0104_Arrays_Iterate" />
+        <item itemvalue="Application.Lab102_2D" />
+        <item itemvalue="Application.Lab101_Arrays_2D" />
+        <item itemvalue="Application.Lab100_Arrays_ForEach" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729877042719</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="My files">
+      <option name="closed" value="true" />
+      <created>1730312309584</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730312309584</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -438,6 +450,21 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab0104_Arrays_Iterate.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab0104_Arrays_Iterate.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab0104_Arrays_Iterate.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
